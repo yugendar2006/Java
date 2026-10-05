@@ -12,7 +12,7 @@ public class ArrayLeaders{
         if(leader){
             System.out.print(arr[i]+" ");
            }
-         }
+      }
     }
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
