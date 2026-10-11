@@ -1,7 +1,6 @@
 
 import java.io.*;
 import java.util.*;
-
 public class Solution {
     public static void sorted(int[] arr, int[] arr2) {
         int i = 0, j = 0, k = 0;
