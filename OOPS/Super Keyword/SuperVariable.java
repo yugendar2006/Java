@@ -9,7 +9,6 @@ class Student extends Person {
         System.out.println(super.name);
     }
 }
-
 public class SuperVariable{
     public static void main(String[] args){
         Student s1 = new Student();
