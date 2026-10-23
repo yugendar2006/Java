@@ -10,7 +10,7 @@ public class ArrayException{
         int index = sc.nextInt();
         try{
             System.out.println(arr[index]);
-        }
+        } 
         catch(ArrayIndexOutOfBoundsException e){
             System.out.println("Invalid Index");
         }
