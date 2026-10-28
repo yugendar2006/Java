@@ -10,6 +10,5 @@ class AppendFileDemo{
         catch(IOException e){
             System.out.println("An error occured");
         }
-
     }
 }
