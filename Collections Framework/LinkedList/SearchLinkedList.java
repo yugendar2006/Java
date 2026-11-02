@@ -14,4 +14,4 @@ class SearchLinkedList{
             System.out.print("Element not found");
         }
     }
-}
+} 
